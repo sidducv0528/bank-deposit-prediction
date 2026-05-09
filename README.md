@@ -98,6 +98,17 @@ jupyter notebook bank_deposit_prediction.ipynb
 
 ---
 
+
+---
+
+## 📂 Dataset Included
+
+| File | Rows | Columns | Description |
+|---|---|---|---|
+| `bank_marketing_sample.csv` | 500 | 15 | Sample bank marketing data — ready to run! |
+
+**Full dataset:** [Bank Marketing Dataset — Kaggle](https://www.kaggle.com/henriqueyamahata/bank-marketing)
+
 ## 📸 Output Screenshots
 
 ![Logistic Regression Results](outputs/logistic_regression_results.png)
